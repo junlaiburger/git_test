@@ -1,0 +1,1 @@
+This is Jun Lai's first git project!
